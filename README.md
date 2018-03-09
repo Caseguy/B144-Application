@@ -3,6 +3,7 @@ Group name: B144
 Group members:
  
 Name:                               E-mail:
+
 Abdulaziz Soud Salman Al Otaibi     aalota17@student.aau.dk
 
 Oliver Benjamin Engermann           oenger17@student.aau.dk
